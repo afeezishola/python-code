@@ -1,4 +1,3 @@
-pin = 4321
 attempt = 0
 while True:
   attempt +=1
